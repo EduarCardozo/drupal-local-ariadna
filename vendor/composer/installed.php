@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'af9e923c6b72b2c6f5b964a4bd613698534bb82b',
+    'reference' => 'da2edde2af80621daee4bf20eec466673aef9998',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -432,6 +432,15 @@
         0 => '9.0.0',
       ),
     ),
+    'drupal/csv_serialization' => 
+    array (
+      'pretty_version' => '2.0.0',
+      'version' => '2.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-2.0',
+    ),
     'drupal/datetime' => 
     array (
       'replaced' => 
@@ -719,7 +728,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'af9e923c6b72b2c6f5b964a4bd613698534bb82b',
+      'reference' => 'da2edde2af80621daee4bf20eec466673aef9998',
     ),
     'drupal/responsive_image' => 
     array (
@@ -868,6 +877,15 @@
         0 => '9.0.0',
       ),
     ),
+    'drupal/views_data_export' => 
+    array (
+      'pretty_version' => '1.0.0',
+      'version' => '1.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.0',
+    ),
     'drupal/views_ui' => 
     array (
       'replaced' => 
@@ -969,6 +987,15 @@
       array (
       ),
       'reference' => 'fcd87520e4943d968557803919523772475e8ea3',
+    ),
+    'league/csv' => 
+    array (
+      'pretty_version' => '9.7.1',
+      'version' => '9.7.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '0ec57e8264ec92565974ead0d1724cf1026e10c1',
     ),
     'masterminds/html5' => 
     array (
